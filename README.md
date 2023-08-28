@@ -7,6 +7,6 @@ If you want to get the best experience,
 
 The game can still run without intalling the font.
 
-WARNING: Pygame consumes huge amount of CPU, so you may close all open applications.
+Note: Pygame has high CPU usage, so you may close all other open applications.
 
 Preview Video for this Game: https://youtu.be/erU2pkT_NXM
